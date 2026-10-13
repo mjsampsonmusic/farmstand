@@ -1,0 +1,11 @@
+{
+  "name": "farmstand",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Responsive storefront theme: HTML5, CSS3, Bootstrap 5, jQuery, ES6 modules",
+  "scripts": {
+    "test": "node --test",
+    "start": "npx --yes http-server -c-1 -p 8080 ."
+  }
+}

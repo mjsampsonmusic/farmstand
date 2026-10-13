@@ -1,0 +1,8 @@
+[
+  { "id": "honey-jar", "name": "Wildflower Honey", "category": "pantry", "price": 14.0, "image": "img/honey.svg", "badge": "Bestseller", "stock": 24, "description": "Raw honey from clover and wildflower fields, 16 oz jar." },
+  { "id": "egg-dozen", "name": "Pasture Eggs, Dozen", "category": "pantry", "price": 7.5, "image": "img/eggs.svg", "badge": null, "stock": 40, "description": "Brown and blue eggs from free-range hens." },
+  { "id": "sweet-corn", "name": "Sweet Corn, Six Ears", "category": "produce", "price": 6.0, "image": "img/corn.svg", "badge": "Seasonal", "stock": 0, "description": "Bicolor sweet corn picked the morning it ships." },
+  { "id": "apple-butter", "name": "Slow Apple Butter", "category": "pantry", "price": 11.0, "image": "img/apple.svg", "badge": null, "stock": 15, "description": "Cooked down for twelve hours with cinnamon and clove." },
+  { "id": "barn-tee", "name": "Red Barn Tee", "category": "goods", "price": 28.0, "image": "img/tee.svg", "badge": "New", "stock": 32, "description": "Heavyweight cotton tee with a screen-printed barn." },
+  { "id": "feed-tote", "name": "Feed Sack Tote", "category": "goods", "price": 22.0, "image": "img/tote.svg", "badge": null, "stock": 9, "description": "Canvas tote stitched from reclaimed feed sacks." }
+]
